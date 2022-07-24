@@ -1,2 +1,2 @@
 # ChordPractice
-Implementation of a distributed hash table using chord
+Implementation of a distributed key value store using chord
